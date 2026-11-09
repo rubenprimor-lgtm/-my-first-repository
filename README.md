@@ -1,6 +1,6 @@
 # My First GitHub Repository
 
-**Name:** [Your Name]
+**Name:** Ruben C. Primor Jr.
 
 **Course:** Introduction to Computing
 
